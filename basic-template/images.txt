@@ -1,1 +1,5 @@
+Images for the basic, single column template in Section 9. Direct lnks:
 
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/w3newbie.png
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/lock-banner.jpg
+https://raw.githubusercontent.com/w3newbie/html-email-mastery-images/main/basic-template/button.png
